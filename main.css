@@ -1,0 +1,115 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 30px 0px 0px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    color:black;
+  }
+.italics {
+    font-style: italic;
+  }
+.logo {
+    color: #db9346;
+    font-size: 45px;
+    font-family: 'EB Garamond', serif;
+    margin: 20px 30px 20px 20px;
+}
+.coloredBox {
+    background-color: #db9346;
+    padding: 8px;
+    border-radius: 4px;
+}
+ul {
+    list-style: none;
+}
+li {
+    display: inline;
+}
+header {
+    background-color: #f3ede6; 
+    background-size: 100%;
+    height: 450px;
+    margin-top: 100px;
+    border: 0px;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    position: relative;
+}
+.heading {
+    height: 200px;
+    display: flex;
+    justify-content: left;
+    margin: 0px 0px 0px 160px;
+}
+.rating {
+    display: flex;
+    justify-content: left;
+    margin: 0px 0px 0px 160px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    position: relative;
+    top: -80px;
+}
+.green {
+    color: green;
+}
+h1 {
+    color: black;
+    font-size: 50px;
+    font-family:'EB Garamond', serif;
+    position: relative;
+    top: -84px;
+}
+.content {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    width: 370px;
+    margin: 0px 0px 0px 160px;
+    display: flex;
+    position: relative;
+    top: -500px;
+}
+.contentButton {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    width: 270px;
+    margin: 0px 0px 0px 160px;
+    display: flex;
+    position: relative;
+    top: -515px;
+    background-color: #db9346;
+    padding: 10px;
+    border-radius: 4px;
+}
+.contentTerms {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 9px;
+    width: 340px;
+    margin: 0px 0px 0px 160px;
+    display: flex;
+    position: relative;
+    top: -490px;
+}
+.imageClass {
+    position:relative;
+    top:-212px;
+    margin: 0px 0px 0px 720px;
+    height: 450px;
+    width: 705px;
+}
+.lineBreak {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    width: 370px;
+    margin: 0px 0px 0px 160px;
+    display: flex;
+    position: relative;
+    top: -480px;
+}
+p {
+    width: 300px;
+    margin: 30px 0px 30px 0px;
+}
